@@ -1,5 +1,8 @@
-# daur2_opschonen\Deze directorystructuur vertegenwoordigt de inhoud van de map /home/nonne.hodes/daur2. Het bevat verschillende bestanden en mappen die verband houden met een project of reeks taken. Hier is een overzicht van de directorystructuur:
+# daur2_opschonen
 
+Deze directorystructuur vertegenwoordigt de inhoud van de map /home/nonne.hodes/daur2. Het bevat verschillende bestanden en mappen die verband houden met een project of reeks taken. Hier is een overzicht van de directorystructuur:
+
+```{r }
 /home/nonne.hodes/daur2
 ├── eindopdracht
 │   ├── data
@@ -47,5 +50,5 @@
 └── metagenomics
     ├── Metagenomics.Rmd
     └── Metagenomics.html
-    
+```    
 Dit overzicht kan worden gebruikt als referentie voor de inhoud van de mappen en bestanden in de daur2-directory.
